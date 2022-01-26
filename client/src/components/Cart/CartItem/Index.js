@@ -35,7 +35,7 @@ const onChange = (e) => {
   }
 };
 
- return (
+ return ( 
     <div className="flex-row">
       <div>
         <img
